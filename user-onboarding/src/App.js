@@ -5,7 +5,9 @@ import Form from './components/Form'
 
 function App() {
   return (
-    <Form/>
+    <div className="App">
+         <Form/>
+    </div>
   );
 }
 
